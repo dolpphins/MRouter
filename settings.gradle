@@ -1,0 +1,5 @@
+rootProject.name='MRouter'
+include ':app'
+include ':mrouter'
+include ':compiler'
+include ':annotation'
