@@ -1,4 +1,4 @@
-package com.mtan.mrouterapp.api;
+package com.mtan.mrouter.api;
 
 import org.junit.Test;
 

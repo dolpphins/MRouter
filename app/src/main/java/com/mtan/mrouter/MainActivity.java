@@ -1,9 +1,10 @@
-package com.mtan.mrouterapp;
+package com.mtan.mrouter;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
+import com.mtan.mrouterapp.R;
 
 public class MainActivity extends AppCompatActivity {
 

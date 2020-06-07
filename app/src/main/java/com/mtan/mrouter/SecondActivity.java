@@ -1,8 +1,8 @@
-package com.mtan.mrouterapp;
+package com.mtan.mrouter;
 
 import android.app.Activity;
 
-import com.mtan.mrouterapp.annotation.Route;
+import com.mtan.mrouter.annotation.Route;
 
 @Route(path = "/activity/second")
 public class SecondActivity extends Activity {

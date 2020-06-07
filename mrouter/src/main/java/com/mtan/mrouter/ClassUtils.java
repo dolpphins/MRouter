@@ -1,4 +1,4 @@
-package com.mtan.mrouterapp;
+package com.mtan.mrouter;
 
 // Copy from galaxy sdk ${com.alibaba.android.galaxy.utils.ClassUtils}
 

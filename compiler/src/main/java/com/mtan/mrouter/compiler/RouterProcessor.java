@@ -1,7 +1,7 @@
-package com.mtan.mrouterapp.compiler;
+package com.mtan.mrouter.compiler;
 
 import com.google.auto.service.AutoService;
-import com.mtan.mrouterapp.annotation.Route;
+import com.mtan.mrouter.annotation.Route;
 import com.squareup.javapoet.ClassName;
 import com.squareup.javapoet.JavaFile;
 import com.squareup.javapoet.MethodSpec;

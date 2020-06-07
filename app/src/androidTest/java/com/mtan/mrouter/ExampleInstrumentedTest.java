@@ -1,4 +1,4 @@
-package com.mtan.mrouterapp;
+package com.mtan.mrouter;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.mtan.mrouter.test", appContext.getPackageName());
+        assertEquals("com.mtan.mrouter", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.mtan.mrouterapp.annotation;
+package com.mtan.mrouter.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
